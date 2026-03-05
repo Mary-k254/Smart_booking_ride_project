@@ -1,0 +1,9 @@
+smart-ride-mvp/
+├── src/
+│   ├── app/                    # Next.js App Router
+│   ├── components/             # React components
+│   ├── lib/                    # Utilities & Supabase
+│   └── types/                  # TypeScript types
+├── supabase/
+│   └── migrations/             # Database setup
+└── public/
